@@ -1,0 +1,24 @@
+
+header, main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30px;
+  margin-top: 30px;
+
+}
+
+button{
+  width: 80px;
+  background: rgb(247, 5, 5);
+  height: 30px;
+  cursor:pointer;
+  border-radius: 8%;
+}
+
+#lampada {
+  display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
